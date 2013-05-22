@@ -9,6 +9,8 @@ Remarks
 
 Acknowledgement
 ===============
-- Sebastien Paris's submission in MATLAB FileExchange inspired this package.   
-- These low-level visual features are used in our CVPR work Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Unsupervised Salience Learning for Person Re-identification. In IEEE Conference of Computer Vision and Pattern Recognition (CVPR), 2013. 
+- [Sebastien Paris](http://www.mathworks.com/matlabcentral/fileexchange/authors/13308)'s submission in MATLAB FileExchange inspired this package.   
+- These low-level visual features are used in [our CVPR work](https://github.com/Robert0812/salience_reid) 
+
+  Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Unsupervised Salience Learning for Person Re-identification. In IEEE Conference of Computer Vision and Pattern Recognition (CVPR), 2013. 
 
