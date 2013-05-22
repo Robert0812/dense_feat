@@ -1,14 +1,6 @@
 %
 % compute dense SIFT feature for an image
 %
-% Created by Rui Zhao, on May 20, 2013. 
-% This code is release under BSD license, 
-% any problem please contact Rui Zhao rzhao@ee.cuhk.edu.hk
-%
-% Please cite as
-% Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Unsupervised Salience Learning
-% for Person Re-identification. In IEEE Conference of Computer Vision and
-% Pattern Recognition (CVPR), 2013. 
 %
 
 function [sift_arr, grid_x, grid_y] = sp_dense_sift(I, options)%grid_spacing, patch_size , sigma_edge)
