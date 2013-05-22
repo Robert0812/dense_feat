@@ -4,7 +4,7 @@ In this package, you find MATLAB code for extracting dense Color Histogram and d
 
 Remarks
 ========
-- The core function (sp_dense_sift.m) come from Scenes/Objects classification toolbox http://www.mathworks.com/matlabcentral/fileexchange/29800-scenesobjects-classification-toolbox
+- The core function (sp_dense_sift.m) comes from Scenes/Objects classification toolbox http://www.mathworks.com/matlabcentral/fileexchange/29800-scenesobjects-classification-toolbox
 - The core function (sp_dense_color.m) is a modified MATLAB version of the denseCOLOR.cpp in the toolbox without loss of computation efficiency. 
 
 Acknowledgement
