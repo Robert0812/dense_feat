@@ -37,5 +37,6 @@ options2.sigma_edge                            = 1.2;     % gaussian function pa
 [options2.kernely , options2.kernelx]          = gen_dgauss(options2.sigma_edge);
 
 densefeat = get_densefeature(im, options1, options2, ny*nx);
+save densefeat.mat densefeat
 imagesc(densefeat);
 
